@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SharedLibraryTests",
-            url: "https://github.com/jorgelm95/KMMSharedLibSPMTest.git/releases/download/1.0.0/SharedLibraryTests.xcframework.zip",
+            url: "https://github.com/jorgelm95/KMMSharedLibSPMTest/releases/download/1.0.0/SharedLibraryTests.xcframework.zip",
             checksum: "919219db904528294be30a82f546237b58ad5dcec008069da640dc75378028c5"
         )
     ]
